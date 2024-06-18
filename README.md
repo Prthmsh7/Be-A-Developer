@@ -9,9 +9,9 @@ Note : Your PR will be accepted in a while if it is significant.
 
 Make sure to follow a structure while contributing.
 Structure : 
-   -TOPIC
-      -readme.md(explains all the stuff, gives a roadmap to follow)(list down and drop the links of the necessary resources)
-      -mini-projects (you can add your mini projects that you have built.)
-      -sub-topic1/
-      -sub-topic2/ and so on ...
+ ###  -TOPIC
+ ####    -readme.md(explains all the stuff, gives a roadmap to follow)(list down and drop the links of the necessary resources)
+ ####     -mini-projects (you can add your mini projects that you have built.)
+ ####     -sub-topic1/
+ ####     -sub-topic2/ and so on ...
       
