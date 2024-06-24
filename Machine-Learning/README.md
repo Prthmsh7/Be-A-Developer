@@ -2,7 +2,7 @@
 
 Current Author: [Snehal Saurabh](https://github.com/snehalsaurabh)
 
-<b>IMPORTANT NOTE: This roadmap closely follows the roadmap provided by ['RoadMap.sh'](https://roadmap.sh/ai-data-scientist) with some modifications to it to make it more suitable for beginners based on personal experience. I have also added some additional resources and topics to it. </b><br><br>
+<b>IMPORTANT NOTE: This roadmap closely follows the roadmap provided by ['RoadMap.sh'](https://roadmap.sh/ai-data-scientist) with some modifications to it to make it more suitable for beginners based on personal experience. I have also added some additional resources and topics to it. </b><br>
 
 The steps to be followed are mentioned below:
 
@@ -57,7 +57,7 @@ The steps to be followed are mentioned below:
     - [ ] [Probability and Statistics - Codecademy](https://www.codecademy.com/learn/introduction-to-statistics)
     - [ ] [Probability and Statistics - Udemy](https://www.udemy.com/courses/search/?q=probability%20and%20statistics)
 
-    <b>Personal Recommendation:</b>
+    <b>Personal Recommendation:</b><br>
     Foreign:
     - Lectures of [Khan Academy](https://www.khanacademy.org/math/statistics-probability) 
     - Lectures of [MIT 6.041](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) <br>
@@ -131,9 +131,9 @@ The steps to be followed are mentioned below:
     - [ ] [Machine Learning - Codecademy](https://www.codecademy.com/learn/machine-learning)
     - [ ] [Machine Learning - Udemy](https://www.udemy.com/courses/search/?q=machine%20learning)
 
-    <b>Personal Recommendation:</b> 
+    <b>Personal Recommendation:</b> <br>
     Foreign:
-    - Stanford's [CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+    - Stanford's [CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)<br>
     Indian:
     - [100 Days of Machine Learning Playlist](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) by CampusX
 
@@ -149,9 +149,9 @@ The steps to be followed are mentioned below:
     - [ ] [Deep Learning - Codecademy](https://www.codecademy.com/learn/introduction-to-deep-learning)
     - [ ] [Deep Learning - Udemy](https://www.udemy.com/courses/search/?q=deep%20learning)
 
-    <b>Personal Recommendation:</b> 
+    <b>Personal Recommendation:</b> <br>
     Foreign:
-    - Stanford's [CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+    - Stanford's [CS230](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) <br>
     Indian:
     - [Deep Learning Playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) by CampusX
 
@@ -165,9 +165,9 @@ The steps to be followed are mentioned below:
     - [ ] [Natural Language Processing - Codecademy](https://www.codecademy.com/learn/natural-language-processing)
     - [ ] [Natural Language Processing - Udemy](https://www.udemy.com/courses/search/?q=natural%20language%20processing)
 
-    <b>Personal Recommendation:</b> 
+    <b>Personal Recommendation:</b> <br>
     Foreign:
-    - Stanford's [CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    - Stanford's [CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) <br>
     Indian:
     - [NLP Playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX) by CampusX
 
@@ -181,9 +181,9 @@ The steps to be followed are mentioned below:
     - [ ] [Computer Vision - Codecademy](https://www.codecademy.com/learn/introduction-to-computer-vision)
     - [ ] [Computer Vision - Udemy](https://www.udemy.com/courses/search/?q=computer%20vision)
 
-    <b>Personal Recommendation:</b> 
+    <b>Personal Recommendation:</b> <br>
     Theory:
-    - Stanford's [CS231N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+    - Stanford's [CS231N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) <br>
     Practical:
     - [Computer Vision Playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K) by ProgrammingKnowledge
 
@@ -197,9 +197,9 @@ The steps to be followed are mentioned below:
     - [ ] [Reinforcement Learning - Codecademy](https://www.codecademy.com/learn/reinforcement-learning)
     - [ ] [Reinforcement Learning - Udemy](https://www.udemy.com/courses/search/?q=reinforcement%20learning)
 
-    <b>Personal Recommendation:</b> 
+    <b>Personal Recommendation:</b> <br>
     Theory:
-    - [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver
+    - [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) by David Silver <br>
     Practical:
     - [Reinforcement Learning Playlist](https://www.youtube.com/playlist?list=PLKnIA16_RmvbMK0_fdp0DZHZKm4Q1slAB) by CampusX
 
