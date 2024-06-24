@@ -1,6 +1,6 @@
 # RoadMap
 
-Current Author: [Snehal Saurabh]()
+Current Author: [Snehal Saurabh](https://github.com/snehalsaurabh)
 
 <b>IMPORTANT NOTE: This roadmap closely follows the roadmap provided by ['RoadMap.sh'](https://roadmap.sh/ai-data-scientist) with some modifications to it to make it more suitable for beginners based on personal experience. I have also added some additional resources and topics to it. </b><br><br>
 
