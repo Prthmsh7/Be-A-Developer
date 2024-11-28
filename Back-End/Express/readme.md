@@ -43,5 +43,5 @@ Learn about Websockets and create a chat application or a small real-time game.
 
 Thank you!
 
-#### Made with ❤️ by [Adwitya](https://www.linkedin.com/in/adwityac/) Adwitya.
+#### Made with ❤️ by [Adwitya](https://www.linkedin.com/in/adwityac/).
 
