@@ -38,7 +38,6 @@ When contributing, please follow this general structure:
   ├── sub-topic2/
   └── ...
 ```
-
 ## Acknowledgements
 
 Thanks to all the contributors who have helped make this repository a valuable resource for the community. Every contribution makes a difference in someone's learning journey.
